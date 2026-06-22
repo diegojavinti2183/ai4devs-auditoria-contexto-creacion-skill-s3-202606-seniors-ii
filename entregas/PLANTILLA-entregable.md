@@ -42,6 +42,10 @@ Esta habilidad sera utilizada en la creación de todos los componentes de UI de 
 **Reglas Generales:**
    - Evita la etiqueta `<style>` para cosas básicas. Prioriza el uso de clases utilitarias de PrimeFlex.
    - Mantén un diseño "Mobile-First" utilizando siempre prefijos breakpoint de PrimeFlex cuando sea necesario (`sm:`, `md:`, `lg:`, `xl:`).
+
+## Cuando aplicar
+   -Aplica cuando se creen o actualicen las paginas .xhtml
+
 ```
 
 ---
